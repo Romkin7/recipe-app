@@ -1,5 +1,5 @@
 <script setup lang="ts">
-defineProps(['image', 'handleClick'])
+defineProps(['image'])
 </script>
 
 <template>

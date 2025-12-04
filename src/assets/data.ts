@@ -10,7 +10,7 @@ export interface QuickView {
   ingredients: string[]
 }
 
-const recepies: Recipe[] = [
+const recipes: Recipe[] = [
   {
     quickView: {
       title: 'Triple Chocolate Chip Cookies',
@@ -67,4 +67,4 @@ const recepies: Recipe[] = [
   },
 ]
 
-export default recepies
+export default recipes
